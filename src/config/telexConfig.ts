@@ -1,7 +1,7 @@
-const URL = 'https://b36a-197-211-58-61.ngrok-free.app'
+const URL = 'https://telin-profile-icon-agent.onrender.com'
 
-export const telexConfig : {} = {
-   "data": {
+export const telexConfig: {} = {
+  "data": {
     "date": {
       "created_at": "2025-03-13",
       "updated_at": "2025-03-13"
